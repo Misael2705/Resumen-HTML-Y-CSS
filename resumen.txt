@@ -1,0 +1,36 @@
+HTML:
+Significa lenguaje de marcado de hipertexto y se utiliza para crear la estructura y 
+el contenido de una página web.
+La mayoría de los elementos HTML contienen etiquetas de apertura y cierre con texto sin formato 
+u otras etiquetas HTML entre ellas.
+
+Los elementos HTML se pueden anidar dentro de otros elementos. El elemento incluido es el elemento 
+secundario del elemento primario que lo incluye. De igual forma cualquier contenido visible debe 
+colocarse dentro del <body> etiquetas de apertura y cierre.
+Los encabezados y subtítulos con las etiquetas <h1> o <h6>, se utilizan para proporcionar títulos 
+a las secciones de contenido.
+
+Las etiquetas <p>, <span>y <div> especifican texto o bloques.
+Las etiquetas <em>y <strong>se utilizan para enfatizar el texto.
+Los saltos de línea se crean con la etiqueta <br>.
+Las listas ordenadas (etiqueta <ol>) están numeradas 
+Las listas desordenadas (etiqueta <ul>) tienen viñetas.
+Se pueden agregar imágenes (etiqueta <img>) y videos (etiqueta <video>) vinculándolos a una fuente existente.
+
+
+CSS:
+Es un lenguaje de programacion que se utiliza para el diseño de una pagina. CSS esta escrita tanto para 
+estilos en línea como para hojas de estilo. asi mismo CSS es un conjunto de reglas, selector y declaración.
+
+Los estilos CSS en línea se pueden escribir dentro de la etiqueta HTML de apertura utilizando el style atributo.
+Se pueden usar estilos en línea para darle estilo a HTML, pero no es la mejor práctica.
+
+Una hoja de estilo interna se escribe utilizando el <style>elemento dentro del <head>elemento de un archivo HTML.Se 
+pueden utilizar hojas de estilo internas para darle estilo a HTML, pero no es recomendable.
+
+Una hoja de estilo externa separa el código CSS del HTML mediante la .cssextensión de archivo. Lo cual es lo mas 
+recomendable. Las hojas de estilo externas están vinculadas a HTML mediante el <link>elemento.
+
+CSS cuenta con los modelos de cajas como lo son la altura (height), ancho (width), rellenos (padding), bordes (borders) 
+y margenes (margin). El modelo de caja incluye un conjunto de propiedades que se utilizan para crear espacio alrededor 
+y entre los elementos HTML.
